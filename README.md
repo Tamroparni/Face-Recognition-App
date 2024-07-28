@@ -21,20 +21,23 @@ Sync the project with Gradle files.
 
 Run the app on an Android device or emulator.
 
-Usage
+##Usage
 Launch the app on your Android device.
 Click the Capture button to take a photo using the device's camera.
 The app will process the captured image and display face detection results, including smile probability and eye openness.
-Code Structure
+##Code Structure
 MainActivity.kt: Contains the main activity code, including camera functionality, image capture, and face detection logic.
-Requirements
+##Requirements
 Android Studio
 Android device or emulator with a camera
 Internet connection for downloading ML Kit dependencies
-License
+##Images
+
+
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+##Acknowledgments
 Google ML Kit
 Feel free to contribute to the project by submitting issues or pull requests.
 
