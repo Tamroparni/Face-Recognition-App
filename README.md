@@ -31,8 +31,14 @@ MainActivity.kt: Contains the main activity code, including camera functionality
 Android Studio
 Android device or emulator with a camera
 Internet connection for downloading ML Kit dependencies
-##Images
 
+**##Images**
+1. Interface
+   ![S1](https://github.com/user-attachments/assets/4225bfee-99cc-47f6-ac8f-f0b7d04ef751)
+2. User image
+   ![img](https://github.com/user-attachments/assets/2a446a30-0f0e-485d-a99c-449d5fdc0054)
+3. Output Interface
+   ![S2](https://github.com/user-attachments/assets/c19a047f-cb01-4140-b4c2-6f452fd52949)
 
 ##License
 This project is licensed under the MIT License - see the LICENSE file for details.
